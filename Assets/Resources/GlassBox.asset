@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d248fa39242314a90dd97c516357f7, type: 3}
+  m_Name: GlassBox
+  m_EditorClassIdentifier: 
+  name: glass_box
+  strength: 1
+  mass: 0.1
+  isBroken: 0
+  prefab: {fileID: 0}
+  boxSprite: {fileID: 492219829, guid: 0d9bec0edb5c6024d83ad10bf3b368de, type: 3}
+  icon: {fileID: 21300000, guid: da1213a4993f34648b03b71237d76728, type: 3}
